@@ -2,9 +2,10 @@
 
 ## SQL
 1. [SQL Crash Course - Beginner to Intermediate](https://www.youtube.com/watch?v=nWeW3sCmD2k) by Traversy Media
+2. [PostgreSQL in 100 Seconds](https://www.youtube.com/watch?v=n2Fluyr3lbc) by Fireship
 
 ## Docker
-1. [Learn Docker in 7 Easy Steps](https://www.youtube.com/watch?v=gAkwW2tuIqE) - Full Beginner's Tutorial by Fireship
+1. [Learn Docker in 7 Easy Steps - Full Beginner's Tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE) by Fireship
 
 ## AWS
 1. 
