@@ -10,6 +10,9 @@
 
 ## Regex
 1. [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
+    - [Interactive Tutorial](https://regexone.com/lesson/introduction_abcs)
+    - [Practice Problems](https://regexone.com/problem/matching_decimal_numbers)
+    - [Using Regular Expressions in Javascript](https://regexone.com/references/javascript)
 
 ## AWS
 1. 
