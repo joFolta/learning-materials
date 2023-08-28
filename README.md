@@ -14,5 +14,8 @@
     - [Practice Problems](https://regexone.com/problem/matching_decimal_numbers)
     - [Using Regular Expressions in Javascript](https://regexone.com/references/javascript)
 
+## NextJS
+1. [Introduction | Learn Next.js](https://nextjs.org/learn/foundations/about-nextjs)
+
 ## AWS
 1. 
